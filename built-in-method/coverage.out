@@ -1,0 +1,4 @@
+mode: set
+calc/calc.go:4.24,6.25 2 1
+calc/calc.go:9.5,9.15 1 1
+calc/calc.go:6.25,8.6 1 1
