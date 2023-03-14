@@ -1,0 +1,3 @@
+mode: set
+example/hello/test-tools/testify/math.go:4.30,6.2 1 1
+example/hello/test-tools/testify/math.go:9.35,11.2 1 0
